@@ -1,16 +1,18 @@
-# primer_app
+# DICE ROLLER
 
-A new Flutter project.
+App movil donde podras jugar con un dado el cual caera aleatorimente en alguno de sus lados.
 
-## Getting Started
+## Requisitos Previos
 
-This project is a starting point for a Flutter application.
+Antes de comenzar, asegúrate de tener instalados los siguientes elementos:
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK: [Instrucciones de instalación](https://flutter.dev/docs/get-started/install)
+- Dart SDK: [Instrucciones de instalación](https://dart.dev/get-dart)
+- IDE compatible con Flutter (como VSCode o Android Studio)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalación
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/Gonzalez-Gaston/dice_roller.git
